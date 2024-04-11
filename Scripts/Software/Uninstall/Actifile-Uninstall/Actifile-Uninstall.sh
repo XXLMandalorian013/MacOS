@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Installs Actifile if it is not already.
+# Uninstalls Actifile if it is not already.
 Install_Path="/Library/Application Support/Actifile"
 
 if [ ! -d "$Install_Path" ]; then
