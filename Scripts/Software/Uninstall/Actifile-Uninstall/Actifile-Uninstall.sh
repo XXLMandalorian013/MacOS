@@ -3,7 +3,7 @@
 # Installs Actifile if it is not already.
 Install_Path="/Library/Application Support/Actifile"
 
-if [ -d "$Install_Path" ]; then
+if [ ! -d "$Install_Path" ]; then
     echo "Actifile is already uninstalled...ending script."
 else
     # Program DL URL Var.
