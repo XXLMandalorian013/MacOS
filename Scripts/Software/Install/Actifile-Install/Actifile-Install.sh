@@ -25,7 +25,7 @@ else
     # Silently installs the program. Be sure to change the install key!!!
     ./silent_install.sh install INSTALL_KEY
     # Checks to see if RC installed or not.
-    if which /Library/Application Support/Actifile >/dev/null; then#
+    if which /Library/Application Support/Actifile >/dev/null; then
         echo "Actifile install successful!"#
     fi
 fi
