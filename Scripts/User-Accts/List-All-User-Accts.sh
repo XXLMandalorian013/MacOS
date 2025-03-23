@@ -1,0 +1,1 @@
+dscl . list /Users
