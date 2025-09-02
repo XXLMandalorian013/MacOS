@@ -26,8 +26,8 @@ unzipped_software_name="MacLogon-2.0.4"
 # Installer name
 installer_name="MacLogon-2.0.4.pkg"
 # Client specific vars for the configuration script.
-ikey="DIRHVP0AHK0XX964QR6H"
-skey="0tJ7UpL5zhn3tn4086J5lttkfKmFGRXQiO2RQOaE"
+ikey="12345abcdef"
+skey="12345abcdef"
 host="api-e34ea2c3.duosecurity.com"
 failopen="false"
 bypass_smartcard="false"
